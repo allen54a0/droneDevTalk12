@@ -1,8 +1,7 @@
-# EP5 — 飛控不是司機，是無人機的作業系統
+# EP05 — 飛控不是司機，是無人機的作業系統
 
 (點選觀看影片)
 [![影片標題](https://img.youtube.com/vi/RowdVpa1iUI/maxresdefault.jpg)](https://www.youtube.com/watch?v=RowdVpa1iUI)
-![EP5](EP5.jpg)
 
 大家好，我是阿仁。「ArduPilot、PX4 網路上免費下載，是不是比較爛？我們是不是該自己寫一套閉源飛控才叫有核心技術？」這是我最常被企業主問到的一題。這一集，我們進入無人機的技術深水區——飛控次系統，把開源 vs 閉源、飛控的真實角色一次講清楚。
 

@@ -1,8 +1,7 @@
-# EP8 — 無人機最昂貴的眼睛：GSD、NIIRS、DRI 到底差在哪？
+# EP08 — 無人機最昂貴的眼睛：GSD、NIIRS、DRI 到底差在哪？
 
 (點選觀看影片)
 [![影片標題](https://img.youtube.com/vi/XXg1vy3dvlE/maxresdefault.jpg)](https://www.youtube.com/watch?v=XXg1vy3dvlE)
-![EP8](EP8.jpg)
 
 大家好，我是阿仁。99% 的無人機任務，目的只有一個：**看見**。我用過要價近 400 萬台幣的光電球，也用過幾千元的消費級雲台。光電酬載絕對不是「相機」兩個字這麼簡單——選對了，無人機是千里眼；選錯了，它就是飛在天上的近視眼。這一集教你看穿規格書的行銷話術。
 
