@@ -1,0 +1,16 @@
+# OS / 編輯器暫存
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.tmp.*
+*.bak
+*~
+
+# Dropbox 衝突檔
+*conflicted copy*
+*衝突的複本*
+
+# 編輯器
+.vscode/
+.idea/
