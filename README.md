@@ -4,6 +4,11 @@
 
 本系列以建立「無人機系統建構的共通語言」為使命，從任務剖面、次系統、整合驗證一路講到產業終局。每一集底下包含當集的 PDF 講義、代表圖、以及內容大綱（README）。
 
+## 一次看完｜YouTube 播放清單
+
+(點選觀看完整播放清單)
+[![系列回顧 知識地圖](playlist_cover.jpg)](https://www.youtube.com/watch?v=p4yGV7PqZ60&list=PLxOb9oACh5dmHB3yDFJuHUc2znW4bsK92)
+
 ## 集數索引
 
 | 集數 | 主題 | 連結 |
